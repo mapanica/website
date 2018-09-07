@@ -6,7 +6,7 @@ Summary: MapaNica, el capítulo de [OpenStreetMap](http://openstreetmap.org/) en
 
 <div class="article-style-line">
   <ul>
-    <li>27/07/2016, Quartz, <a href="http://www.distintaslatitudes.net/la-comunidad-quiere-mapear-nicaragua">Nicaraguans are using crowdsourcing technology to prove that a good map can change your life</a>, English</li>
+    <li>27/07/2016, Quartz, <a href="https://qz.com/742755/nicaraguans-are-using-crowdsourcing-technology-to-prove-that-a-good-map-can-change-your-life/">Nicaraguans are using crowdsourcing technology to prove that a good map can change your life</a>, English</li>
     <li>20/07/2016, Distintas Latitudes, <a href="http://www.distintaslatitudes.net/la-comunidad-quiere-mapear-nicaragua">MapaNica: La comunidad de Software Libre que quiere mapear Nicaragua</a>, Español</li>
     <li>01/04/2016, Univision Noticias, <a href="http://www.univision.com/noticias/citylab-vivienda/el-laberinto-de-managua-la-ciudad-donde-las-calles-no-tienen-nombre">El laberinto de Managua, la ciudad donde las calles no tienen nombre</a>, Español</li>    
     <li>03/05/2016, Arquipensa UCA, <a href="https://issuu.com/emmagrunlorio/docs/articulo_de_prensa_oficial-ilovepdf/1">Estudiantes de la UCA mapean Nueva Vida</a>, Español</li>
