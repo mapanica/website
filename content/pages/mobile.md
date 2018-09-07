@@ -29,7 +29,7 @@ Summary: Mapas para dispositivos móviles
       <li>Cómo llegar de un punto al otro con transporte público.</li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=de.grobox.liberario" title="Transportr in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>
-    <a href="https://f-droid.org/en/packages/de.grobox.liberario" title="Transportr in F-Doird"><img class="storeBadge" src="/images/f-droid-badge.svg"></a>
+    <a href="https://f-droid.org/en/packages/de.grobox.liberario" title="Transportr in F-Doird"><img height="40px" class="storeBadge" src="/images/f-droid-badge.svg"></a>
   </div>
   <div style="clear:both"></div>
 </div>
