@@ -12,7 +12,7 @@ Summary: Mapas para dispositivos móviles
     <ul style="list-style-type:none;">
       <li>Mapa offline (no se necesita conexión a internet)</li>
       <li>Busca todo lo que necesites en los mapas</li>
-      <li>Cómo llegar (entrutamiento)</li>
+      <li>Cómo llegar (enrutamiento)</li>
       <li>Uso fácil</li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro" title="MAPS.ME in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>

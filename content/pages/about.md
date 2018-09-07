@@ -21,11 +21,11 @@ La comunidad de MapaNica pretende crear y distribuir sin restricciones el mejor 
 <div class="article-style-line">
 <h4>Mapa del transporte público de Managua</h4>
 <img width="400" src="/images/paper_map.jpg" />
-La creación del mapa de transporte urbano colectivo ha sido un trabajo colectivo de más de 150 voluntarios, que levantaron la información del recorrido de las 45 rutas de la ciduad de Managua y Ciudad Sandino. En colaboración con <a href="http://ninfusds.com">Ninfus Design Studio</a> se diseñó el mapa impreso. Y en éste momento <a href="http://support.mapanica.net">se está recaudando fondos</a> en una campaña de "crowd-founding"
+La creación del mapa de transporte urbano colectivo ha sido un trabajo colectivo de más de 150 voluntarios, que levantaron la información del recorrido de las 45 rutas de la ciudad de Managua y Ciudad Sandino. En colaboración con <a href="http://ninfusds.com">Ninfus Design Studio</a> se diseñó el mapa impreso. Y en éste momento <a href="http://support.mapanica.net">se está recaudando fondos</a> en una campaña de "crowd-founding"
 apoyado por el <a href="https://hotosm.org/projects/public_transportation_map_for_managua">Equipo
 Humanitario de OpenStreetMap</a> (HOT) para imprimir el mapa.
 <br /><br />
-Revisa las rutas mas detalladas en Internet y dános tu opinión en: <a href="http://datos.mapanica.net"><strong>rutas.mapanica.net</strong></a>
+Revisa las rutas más detalladas en Internet y danos tu opinión en: <a href="http://datos.mapanica.net"><strong>rutas.mapanica.net</strong></a>
 <br /><br />
 </div>
 
@@ -38,7 +38,7 @@ de mapeo, sobre percepción de peligro en el entorno de los barrios de algunas
 escuelas en Bluefields. En colaboración con estudiantes de las universidades costeñas crearon el mapa base de la cuidad de Bilwi y el de Bluefields.
 <br style="clear:both;" /><br />
 <a  href="http://unicef.org.ni/media/publicaciones/archivos/geotecnologias_participativas_05_01_16.pdf"><img width="200" src="/images/portada_geotecnologias.jpg" /></a>
-Leé nuestra publicación, la cual decumenta a detalle la experiencia de Nicaragua con geotecnologías libres y participación de niñas, niños, adolescentes y jóvenes.
+Leé nuestra publicación, la cual documenta a detalle la experiencia de Nicaragua con geotecnologías libres y participación de niñas, niños, adolescentes y jóvenes.
 
 </div>
 

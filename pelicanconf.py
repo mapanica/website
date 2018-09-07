@@ -8,7 +8,7 @@ SITENAME = u'MapaNica.net - OpenStreetMap Nicaragua'
 SITETITLE = u'MapaNica.net'
 SITESUBTITLE = 'OpenStreetMap Nicaragua'
 SITEDESCRIPTION = 'El mejor mapa de Nicaragua - libre y colaborativo'
-SITEKEYWORDS = 'CpenStreetMap, Nicaragua, Mapas, Transporte público, Datos Abuertos, Open Data, Software Libre'
+SITEKEYWORDS = 'OpenStreetMap, Nicaragua, Mapas, Transporte público, Datos Abuertos, Open Data, Software Libre'
 
 USE_LESS = True
 SITEURL = 'https://www.mapanica.net'

@@ -8,14 +8,14 @@ Summary: MapaNica, el capítulo de [OpenStreetMap](http://openstreetmap.org/) en
   <ul>
     <li>27/07/2016, Quartz, <a href="https://qz.com/742755/nicaraguans-are-using-crowdsourcing-technology-to-prove-that-a-good-map-can-change-your-life/">Nicaraguans are using crowdsourcing technology to prove that a good map can change your life</a>, English</li>
     <li>20/07/2016, Distintas Latitudes, <a href="http://www.distintaslatitudes.net/la-comunidad-quiere-mapear-nicaragua">MapaNica: La comunidad de Software Libre que quiere mapear Nicaragua</a>, Español</li>
-    <li>01/04/2016, Univision Noticias, <a href="http://www.univision.com/noticias/citylab-vivienda/el-laberinto-de-managua-la-ciudad-donde-las-calles-no-tienen-nombre">El laberinto de Managua, la ciudad donde las calles no tienen nombre</a>, Español</li>    
+    <li>01/04/2016, Univision Noticias, <a href="http://www.univision.com/noticias/citylab-vivienda/el-laberinto-de-managua-la-ciudad-donde-las-calles-no-tienen-nombre">El laberinto de Managua, la ciudad donde las calles no tienen nombre</a>, Español</li>
     <li>03/05/2016, Arquipensa UCA, <a href="https://issuu.com/emmagrunlorio/docs/articulo_de_prensa_oficial-ilovepdf/1">Estudiantes de la UCA mapean Nueva Vida</a>, Español</li>
     <li>31/03/2016, Radio Universidad - Espiral Nocturno, <a href="http://www.uni.edu.ni/Articulo/Ver/Jovenes-crean-mapa-de-rutas-Managua-y-Ciudad-Sandino">Jóvenes crean mapa de rutas Managua y Ciudad Sandino</a>, Español</li>
     <li>02/03/2016, Buenos días Nicaragua (Canal 12), <a href="https://www.youtube.com/watch?v=18bBPESlGcU">Mapas de ruta en Managua y Ciudad Sandino</a> (Video), Español</li>
     <li>08/02/2016, Radio Universidad - Espiral Nocturno, <a href="https://soundcloud.com/roirobo/mapanica-net-espiral-nocturno-radio-universidad">Entrevista a Rodrigo Rodríguez</a> (Audio), Español</li>
     <li>06/02/2016, Revista Graph, <a href="http://issuu.com/revistagraph/docs/graph_v018">¡Ya tenemos mapa!</a> (Páginas 12 y 13), Español</li>
     <li>05/02/2016, Huffington Post, <a href="http://www.huffingtonpost.it/francesca-larosa/perche-avere-una-mappa-ti-puo-davvero-cambiare-la-vita_b_9166544.html">Perché avere una mappa ti può davvero cambiare la vita</a>, Italiano</li>
-    <li>04/02/2016, Radio Sandino, <a href="https://drive.google.com/file/d/0B1d0t_DYSck3dl9XTHlLdTVLcmc/view">Entevista a Eduardo Mayorga</a> (Audio), Español</li>
+    <li>04/02/2016, Radio Sandino, <a href="https://drive.google.com/file/d/0B1d0t_DYSck3dl9XTHlLdTVLcmc/view">Entrevista a Eduardo Mayorga</a> (Audio), Español</li>
     <li>03/02/2016, La Prensa, <a href="http://www.laprensa.com.ni/2016/02/03/nacionales/1979863-elaboran-mapa-usuarios-del-tuc-managua-ciudad-sandino">Elaboran mapa para usuarios del TUC en Managua y Ciudad Sandino</a>, Español</li>
     <li>03/02/2016, El Nuevo Diario, <a href="http://www.elnuevodiario.com.ni/nacionales/managua/383957-que-bus-tomar-managua-guia-explica/">¿Qué bus tomar en Managua? Una guía lo explica</a>, Español</li>
     <li>03/02/2016, Hoy, <a href="http://www.hoy.com.ni/2016/02/03/un-mapa-para-saber-por-que-lugares-circula-el-transporte/">Un mapa para saber por qué lugares circula el transporte</a>, Español</li>
@@ -28,7 +28,7 @@ Summary: MapaNica, el capítulo de [OpenStreetMap](http://openstreetmap.org/) en
     <li>02/02/2016, Noticias 12, <a href="https://www.youtube.com/watch?v=rt-SZEuLfC4">Mapas de ruta en Managua y Ciudad Sandino</a> (Video), Español</li>
     <li>02/02/2016, Noti Vos, <a href="https://www.youtube.com/watch?v=Xhz0GiHts_k">Mapas de ruta en Managua y Ciudad Sandino/</a> (Video), Español</li>
     <li>02/02/2016, MSN/EFE, <a href="http://www.msn.com/es-co/video/watch/mapa-nica-elabora-el-primer-mapa-de-rutas-de-transporte-colectivo-de-managua/vi-BBp2qk4">Mapa Nica elabora el primer mapa de rutas de transporte colectivo de Managua</a> (Video), Español</li>
-    <li>02/02/2016, 100% Noticias Nicaragua, <a href="http://100noticias.com.ni/managua-y-ciudad-sandino-ya-tiene-mapa-para-saber-el-recorrido-de-las-44-rutas/">Managua y Ciudad Sandino ya tiene mapa para saber el recorrido de las 44 rutas</a>, Español</li>
+    <li>02/02/2016, 100% Noticias Nicaragua, <a href="http://100noticias.com.ni/managua-y-ciudad-sandino-ya-tiene-mapa-para-saber-el-recorrido-de-las-44-rutas/">Managua y Ciudad Sandino ya tienen mapa para saber el recorrido de las 44 rutas</a>, Español</li>
     <li>02/02/2016, Vos TV, <a href="http://www.vostv.com.ni/newweb/crean-mapa-de-rutas-en-managua-y-ciudad-sandino/">Crean mapa de rutas en Managua y Ciudad Sandino</a>, Español</li>
     <li>02/02/2016, Bacanalnica, <a href="http://www.bacanalnica.com/mapa-los-buses-managua-ahora-papel-no-arriesgues-vida/">El mapa de los buses de Managua, ahora en papel para que no arriesgues tu vida</a>, Español</li>
     <li>02/02/2016, Radio Universidad - Noticiero, <a href="https://drive.google.com/file/d/0B1d0t_DYSck3RFlQVGRJVFFuczg/view">Entevista a Gerald Hurtado</a> (Audio), Español</li>
@@ -39,7 +39,7 @@ Summary: MapaNica, el capítulo de [OpenStreetMap](http://openstreetmap.org/) en
     <li>07/01/2016, Humanitarian OpenStreetMap Team, <a href="https://hotosm.org/updates/2016-01-07_a_crowd_sourced_public_transportation_map_for_managua">A crowd-sourced public transportation map for Managua</a>, English</li>
     <li>14/12/2015, El Nuevo Diario, <a href="http://www.elnuevodiario.com.ni/suplementos/tecnologia/379601-queremos-tener-mejor-mapa-nicaragua/">“Queremos tener el mejor mapa de Nicaragua”</a>, Español</li>
     <li>13/01/2016, La Voz del Sandinismo, <a href="http://www.lavozdelsandinismo.com/nicaragua/2016-01-13/mapanica-distribuira-veinte-mil-ejemplares-planos/">MapaNica distribuirá veinte mil ejemplares de planos</a>, Español</li>
-    <li>11/12/2015, Bacanalnica, <a href="http://www.bacanalnica.com/sabes-donde-pasa-bus-managua-aqui-esta-mapa/">¿Sabes por dónde pasa cada bus de Managua? Aquí está el mapa</a>, Español</li>
+    <li>11/12/2015, Bacanalnica, <a href="http://www.bacanalnica.com/sabes-donde-pasa-bus-managua-aqui-esta-mapa/">¿Sabés por dónde pasa cada bus de Managua? Aquí está el mapa</a>, Español</li>
     <li>10/12/2015, La Voz del Sandinismo, <a href="http://www.lavozdelsandinismo.com/nicaragua/2015-12-10/no-conoces-las-rutas-de-bus-visita-esta-web/">¿No conocés las rutas de bus? Visitá esta web</a>, Español</li>
     <li>09/12/2015, El Nuevo Diario, <a href="http://www.elnuevodiario.com.ni/nacionales/managua/379135-mapa-interactivo-indica-recorrido-cada-ruta-capita/">Mapa interactivo indica el recorrido de cada ruta en Managua</a>, Español</li>
     <li>09/12/2015, Managua Furiosa, <a href="http://www.managuafuriosa.com/mapanica-estrena-web/">Mapanica estrena web</a>, Español</li>
