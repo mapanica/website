@@ -6,6 +6,7 @@ Summary: MapaNica, el capítulo de [OpenStreetMap](http://openstreetmap.org/) en
 
 <div class="article-style-line">
   <ul>
+    <li>01/02/2019, Radio ABC Stereo, <a href="http://www.radioabc.info/noticia.php?ID=15597">Desarrollan aplicación móvil para el transporte urbano en Estelí</a>, Español</li>
     <li>27/07/2016, Quartz, <a href="https://qz.com/742755/nicaraguans-are-using-crowdsourcing-technology-to-prove-that-a-good-map-can-change-your-life/">Nicaraguans are using crowdsourcing technology to prove that a good map can change your life</a>, English</li>
     <li>20/07/2016, Distintas Latitudes, <a href="http://www.distintaslatitudes.net/la-comunidad-quiere-mapear-nicaragua">MapaNica: La comunidad de Software Libre que quiere mapear Nicaragua</a>, Español</li>
     <li>01/04/2016, Univision Noticias, <a href="http://www.univision.com/noticias/citylab-vivienda/el-laberinto-de-managua-la-ciudad-donde-las-calles-no-tienen-nombre">El laberinto de Managua, la ciudad donde las calles no tienen nombre</a>, Español</li>
