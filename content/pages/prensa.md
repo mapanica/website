@@ -7,6 +7,9 @@ Summary: MapaNica, el capítulo de [OpenStreetMap](http://openstreetmap.org/) en
 <div class="article-style-line">
   <ul>
     <li>01/02/2019, Radio ABC Stereo, <a href="http://www.radioabc.info/noticia.php?ID=15597">Desarrollan aplicación móvil para el transporte urbano en Estelí</a>, Español</li>
+    <li>05/02/2018, La Prensa, <a href="https://www.laprensa.com.ni/2018/02/05/nacionales/2371705-actualizan-mapa-de-transporte-colectivo-de-managua">Actualizan mapa de transporte colectivo de Managua</a>, Español</li>
+    <li>06/07/2017, Libération, <a href="http://www.liberation.fr/futurs/2017/07/06/60-des-villes-ne-disposent-pas-d-un-plan-de-transports-libre_1581738">60% des villes ne disposent pas d'un plan de transports libre</a>, Francais</li>
+    <li>26/04/2017, Le Monde, <a href="http://www.lemonde.fr/chronique-des-communs/article/2017/04/26/une-appli-vraiment-collaborative-pour-partager-ses-donnees-de-transport_5117958_5049504.html">Une appli (vraiment) collaborative pour partager ses données de transport</a>, Francais</li>
     <li>27/07/2016, Quartz, <a href="https://qz.com/742755/nicaraguans-are-using-crowdsourcing-technology-to-prove-that-a-good-map-can-change-your-life/">Nicaraguans are using crowdsourcing technology to prove that a good map can change your life</a>, English</li>
     <li>20/07/2016, Distintas Latitudes, <a href="http://www.distintaslatitudes.net/la-comunidad-quiere-mapear-nicaragua">MapaNica: La comunidad de Software Libre que quiere mapear Nicaragua</a>, Español</li>
     <li>01/04/2016, Univision Noticias, <a href="http://www.univision.com/noticias/citylab-vivienda/el-laberinto-de-managua-la-ciudad-donde-las-calles-no-tienen-nombre">El laberinto de Managua, la ciudad donde las calles no tienen nombre</a>, Español</li>
