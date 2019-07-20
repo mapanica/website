@@ -46,7 +46,7 @@ Leé nuestra publicación, la cual documenta a detalle la experiencia de Nicarag
 <h4>Infraestructura de Datos Espaciales Libres</h4>
 <a href="http://datos.mapanica.net"><img style="border-radius: 10px;" width="120" src="/images/mapanica_datos.jpg" /></a>
 Portal de descarga de geo-datos abiertos de Nicaragua. Es dirigido a profesionales, científicos y estudiantes, ofreciendo geo-datos vectoriales de Nicaragua en diferentes formatos. Éstos pueden ser descargados
-y utlizados libremente: <strong><a href="http://datos.mapanica.net">datos.mapanica.net</a></strong>
+y utilizados libremente: <strong><a href="http://datos.mapanica.net">datos.mapanica.net</a></strong>
 </div>
 
 
