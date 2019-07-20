@@ -104,7 +104,7 @@ Summary: Mapas para dispositivos móviles
       <li>Foto mapeo a nivel de calle</li>
       <li>Grabación de viaje GPS con fotos</li>
       <li>Explora lugares con recorridos virtuales</li>
-      <li>Funciona offline. Fotos se suben con conexión Wifi.</li>
+      <li>Funciona offline. Fotos se suben con conexión Wi-Fi.</li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=app.mapillary" title="Mapillary in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>
     <a href="https://itunes.apple.com/us/app/mapillary/id757286802?mt=8" title="Mapillary in the Apple AppStore"><img class="storeBadge" src="/images/appstore_badge.svg"></a>
@@ -121,7 +121,7 @@ Summary: Mapas para dispositivos móviles
       <li>Foto mapeo a nivel de calle</li>
       <li>Grabación de viaje GPS con fotos</li>
       <li>Explora lugares con recorridos virtuales</li>
-      <li>Funciona offline. Fotos se suben con conexión Wifi.</li>
+      <li>Funciona offline. Fotos se suben con conexión Wi-Fi.</li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=com.telenav.streetview" title="Mapillary in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>
     <a href="https://itunes.apple.com/ro/app/openstreetcam/id1089548849?mt=8" title="OpenStreetCam in the Apple AppStore"><img class="storeBadge" src="/images/appstore_badge.svg"></a>
