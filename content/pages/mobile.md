@@ -10,7 +10,7 @@ Summary: Mapas para dispositivos móviles
   <div>
     <img class="float-left" src="/images/mapsme.png" />
     <ul style="list-style-type:none;">
-      <li>Mapa offline (no se necesita conexión a internet)</li>
+      <li>Mapa offline (no se necesita conexión a Internet)</li>
       <li>Busca todo lo que necesites en los mapas</li>
       <li>Agrega información sobre negocios y lugares</li>
       <li>Cómo llegar (enrutamiento) en carro, bicicletas y a pie</li>
@@ -52,7 +52,7 @@ Summary: Mapas para dispositivos móviles
       <li></li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=de.grobox.liberario" title="Transportr in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>
-    <a href="https://f-droid.org/packages/de.grobox.liberario/" title="Transportr in F-Droid"><img height="40px" class="storeBadge" src="/images/fdroid_badge.svg"></a>
+    <a href="https://f-droid.org/packages/de.grobox.liberario/" title="Transportr in F-Droid"><img height="40px" class="storeBadge" src="/images/f-droid-badge.svg"></a>
   </div>
   <div style="clear:both"></div>
 </div>
@@ -63,7 +63,7 @@ Summary: Mapas para dispositivos móviles
   <div>
     <img class="float-left" src="/images/osmand.png" />
     <ul style="list-style-type:none;">
-      <li>Mapa offline (no se necesita conexión a internet)</li>
+      <li>Mapa offline (no se necesita conexión a Internet)</li>
       <li>Busca todo lo que necesites en los mapas</li>
       <li>Cómo llegar (enrutamiento) en carro, bicicletas y a pie</li>
       <li>Agrega información sobre negocios y lugares</li>
@@ -73,7 +73,7 @@ Summary: Mapas para dispositivos móviles
     </ul>
     <a href="https://play.google.com/store/apps/details?id=net.osmand" title="OsmAnd in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>
     <a href="https://itunes.apple.com/app/apple-store/id934850257?mt=8" title="OsmAnd in the Apple AppStore"><img class="storeBadge" src="/images/appstore_badge.svg"></a>
-    <a href="https://f-droid.org/en/packages/net.osmand.plus/" title="OsmAnd in F-Droid"><img height="40px" class="storeBadge" src="/images/fdroid_badge.svg"></a>
+    <a href="https://f-droid.org/en/packages/net.osmand.plus/" title="OsmAnd in F-Droid"><img height="40px" class="storeBadge" src="/images/f-droid-badge.svg"></a>
   </div>
   <div style="clear:both"></div>
 </div>
@@ -90,7 +90,7 @@ Summary: Mapas para dispositivos móviles
       <li>Exportar GPX a OSM o aplicaciones de mapeo</li>
     </ul>
     <a href="https://play.google.com/store/apps/details?id=me.guillaumin.android.osmtracker" title="OSMTracker in the Google Play Store"><img height="40px" class="storeBadge" src="/images/googleplay_badge.svg"></a>
-    <a href="https://f-droid.org/en/packages/me.guillaumin.android.osmtracker/" title="OSMTracker in F-Droid"><img height="40px" class="storeBadge" src="/images/fdroid_badge.svg"></a>
+    <a href="https://f-droid.org/en/packages/me.guillaumin.android.osmtracker/" title="OSMTracker in F-Droid"><img height="40px" class="storeBadge" src="/images/f-droid-badge.svg"></a>
   </div>
   <div style="clear:both"></div>
 </div>
