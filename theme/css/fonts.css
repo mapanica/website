@@ -1,0 +1,60 @@
+/* FONTS */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(/theme/fonts/Montserrat-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Montserrat-Bold'), url(/theme/fonts/Montserrat-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'DroidSerif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('DroidSerif'), local('DroidSerif'), url(/theme/fonts/DroidSerif.ttf);
+}
+@font-face {
+  font-family: 'DroidSerif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('DroidSerif Bold'), local('DroidSerif-Bold'), url(/theme/fonts/DroidSerif-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'DroidSerif';
+  font-style: italic;
+  font-weight: 700;
+  src: local('DroidSerif Italic'), local('DroidSerif-Bold'), url(/theme/fonts/DroidSerif-Bold.ttf);
+}
+
+
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(/theme/fonts/OpenSans.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/theme/fonts/OpenSans-Bold.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(/theme/fonts/OpenSans-Italic.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(/theme/fonts/OpenSans-BoldItalic.woff) format('woff');
+}

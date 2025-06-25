@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0' >
+  <meta name="robots" content="index, follow" />
+
+  <meta name="author" content="OpenStreetMap Nicaragua" />
+  <meta name="description" content="El mejor mapa de Nicaragua - libre y colaborativo" />
+  <meta name="keywords" content="OpenStreetMap, Nicaragua, Mapas, Transporte público, Datos Abuertos, Open Data, Software Libre" />
+  <meta name="Content-Language" content="es" />
+  <meta property="og:site_name" content="MapaNica.net - OpenStreetMap Nicaragua"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="MapaNica.net - OpenStreetMap Nicaragua"/>
+  <meta property="og:description" content="El mejor mapa de Nicaragua - libre y colaborativo"/>
+  <meta property="og:locale" content="es_NI"/>
+  <meta property="og:url" content="https://www.mapanica.net"/>
+  <meta property="og:image" content="/images/mapanica.png">
+
+  <title>MapaNica.net - OpenStreetMap Nicaragua</title>
+
+  <script src="https://www.mapanica.net/theme/js/jquery.js"></script>
+  <script src="https://www.mapanica.net/theme/js/leaflet.js"></script>
+  <script src="https://www.mapanica.net/theme/js/search.js"></script>
+  <script src="https://www.mapanica.net/theme/js/leaflet/zoomslider/L.Control.Zoomslider.js" ></script>
+  <script src="https://www.mapanica.net/theme/js/leaflet/leaflet-hash.js"></script>
+  <script src="https://www.mapanica.net/theme/js/leaflet/ActiveLayers.js"></script>
+
+  <link rel="stylesheet" href="https://www.mapanica.net/theme/css/leaflet.css" type="text/css" />
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
+  <![endif]-->
+  <link rel="stylesheet" href="https://www.mapanica.net/theme/js/leaflet/zoomslider/L.Control.Zoomslider.css" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="https://www.mapanica.net/theme/css/fonts.css">
+  <link rel="stylesheet" type="text/css" href="https://www.mapanica.net/theme/css/pygments.min.css">
+  <link rel="stylesheet" type="text/css" href="https://www.mapanica.net/theme/css/font-awesome.min.css">
+
+  <link rel="stylesheet" type="text/css" href="https://www.mapanica.net/theme/css/style.min.css">
+
+  <link rel="shortcut icon" href="https://www.mapanica.net/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://www.mapanica.net/images/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+
+  <header>
+    <div class="header-content">
+
+      <!-- BRANDING -->
+      <div class="branding">
+        <img class="site-logo" src="/images/mapanica.png" />
+        <h1 class="site-title">mapanica<span>.net</span>
+        <h3 class="site-subtitle">OpenStreetMap Nicaragua</h3>
+      </div>
+
+<nav>
+  <ul id="main-menu">
+      <li class="menu-item link-map"><a class="active" href="/index.html"><span>Mapa de Nicaragua</span></a></li>
+      <li class="menu-item link-public-transport"><a  href="http://rutas.mapanica.net"><span>Rutas Managua</span></a></li>
+      <li class="menu-item link-community"><a  href="/comunidad.html"><span>Comunidad</span></a></li>
+  </ul>
+</nav>
+  </header>  <main id="map-wrapper">
+    <!-- MAP -->
+     <div id="map">
+     </div>
+
+<!-- SEARCH FORM -->
+<div id="searchlink">
+  <span class="fa fa-search"></span>
+</div>
+
+<div id="searchform">
+  <form>
+    <input type="text" name="search-string" value="" id="search-string" placeholder="buscar..." >
+    <span class="button">
+      <button type="submit" class="btn" id="search"><span class="fa fa-search"></span></button>
+    </span>
+  </form>
+</div><ul class="social">
+  <li><a class="social-envelope-o" href="mailto:contacto@mapanica.net"></a></li>
+  <li><a class="social-facebook" href="http://www.facebook.com/mapanica"></a></li>
+  <li><a class="social-twitter" href="http://www.twitter.com/osm_ni"></a></li>
+</ul>
+  </main>
+
+
+  <script src="theme/js/map.js"></script>
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.delattre.de/" : "http://stats.delattre.de/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 5);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats.delattre.de/piwik.php?idsite=5" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Blog",
+      "name": " MapaNica.net - OpenStreetMap Nicaragua ",
+      "url" : "https://www.mapanica.net",
+      "image": "/images/mapanica.png",
+      "description": "El mejor mapa de Nicaragua - libre y colaborativo"
+    }
+  </script>
+</body>
+</html>
