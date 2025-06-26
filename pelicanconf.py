@@ -47,8 +47,6 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('envelope-o', 'mailto:contacto@mapanica.net'),
-          ('facebook', 'http://www.facebook.com/mapanica'),
-          ('twitter', 'http://www.twitter.com/osm_ni'),
           )
 
 MENUITEMS = (('Mapa de Nicaragua', '/index.html', 'map'),

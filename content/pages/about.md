@@ -37,11 +37,3 @@ escuelas en Bluefields. En colaboración con estudiantes de las universidades co
 Leé nuestra publicación, la cual documenta a detalle la experiencia de Nicaragua con geotecnologías libres y participación de niñas, niños, adolescentes y jóvenes.
 
 </div>
-
-<div class="article-style-line">
-<h4>Más información</h4>
-<ul>
-<li><a href="/prensa.html">Artículos sobre MapaNica.net</a></li>
-<li><a href="http://blog.mapanica.net">Blog</a></li>
-</ul>
-</div>
