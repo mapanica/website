@@ -46,8 +46,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('envelope-o', 'mailto:contacto@mapanica.net'),
-          )
+SOCIAL =()
 
 MENUITEMS = (('Mapa de Nicaragua', '/index.html', 'map'),
              ('Rutas Managua', 'http://rutas.mapanica.net', 'public-transport'),
